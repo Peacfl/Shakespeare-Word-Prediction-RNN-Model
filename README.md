@@ -5,6 +5,10 @@ Users can input a line or phrase, and the trained model predicts the next word b
 
 The app uses a trained LSTM-based language model along with tokenizers to convert text to sequences and back.
 
+![image1](/word-pred-1.png?raw=true "Optional Title")
+
+![image2](/word-pred-1.png?raw=true "Optional Title")
+
 ## Dataset
 
 The training corpus is sourced from:
