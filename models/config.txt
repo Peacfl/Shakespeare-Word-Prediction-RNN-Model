@@ -1,0 +1,2 @@
+seq_length: 100
+vocab_size: 36
