@@ -7,7 +7,7 @@ The app uses a trained LSTM-based language model along with tokenizers to conver
 
 ![image1](/word-pred-1.png?raw=true "Optional Title")
 
-![image2](/word-pred-1.png?raw=true "Optional Title")
+![image2](/word-pred-2.png?raw=true "Optional Title")
 
 ## Dataset
 
