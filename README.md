@@ -5,20 +5,20 @@ Users can input a line or phrase, and the trained model predicts the next word b
 
 The app uses a trained LSTM-based language model along with tokenizers to convert text to sequences and back.
 
-##Dataset
+## Dataset
 
 The training corpus is sourced from:
 Project Gutenberg – Shakespeare Collection
 The text was cleaned, tokenised, and transformed into sequences used for next-word prediction.
 
-##Model Details
--Embedding Layer (128 dims): Learns vector representations of words
--LSTM Layer (256 units): Captures long-term dependencies in Shakespearean language
--Dropout + Recurrent Dropout: Helps reduce overfitting
--Dense Output Layer: Predicts the probability distribution of the next word
+## Model Details
+- Embedding Layer (128 dims): Learns vector representations of words
+- LSTM Layer (256 units): Captures long-term dependencies in Shakespearean language
+- Dropout + Recurrent Dropout: Helps reduce overfitting
+- Dense Output Layer: Predicts the probability distribution of the next word
 
-##Streamlit App
+## Streamlit App
 Write some text and adjust the creativity and text size to predict.
 
-##Run the App
+## Run the App
 streamlit run app.py
